@@ -45,6 +45,8 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     qInstallMsgHandler(myMessageOutput);
     qDebug() << " Program started";
+    QCoreApplication::setOrganizationName("OOE");
+    QCoreApplication::setApplicationName("TP-34");
     MainWindow w;
     //w.setWindowFlags(Qt::WindowStaysOnTopHint);
     w.show();
