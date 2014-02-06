@@ -31,7 +31,7 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>0</y>
+      <y>80</y>
       <width>211</width>
       <height>61</height>
      </rect>
@@ -85,7 +85,7 @@
      </rect>
     </property>
     <property name="title">
-     <string>2 Канал</string>
+     <string>Ячейка №4</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -127,13 +127,13 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>80</y>
+      <y>0</y>
       <width>211</width>
       <height>61</height>
      </rect>
     </property>
     <property name="title">
-     <string>3 Канал</string>
+     <string>Ячейка №1</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
